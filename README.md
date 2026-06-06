@@ -109,8 +109,5 @@ ViewModels/      MVVM ViewModel
 Views/           WPF 窗口与弹窗
 ```
 
-## 说明
-
-本仓库不包含打包后的安装包或绿色版压缩包。需要发布时请在本地执行 `dotnet publish` 后自行压缩输出目录。
 
 作者：Phenol93
